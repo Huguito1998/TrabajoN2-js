@@ -2,6 +2,7 @@
 
 
 let suma = 0;
+
 do 
 {
 
