@@ -10,7 +10,7 @@ Pre-requisitos
 -git
 
 Instalacion
- clonar repositorio
+ clonar repositorio  https://github.com/Huguito1998/TrabajoN2-js.git
  
 
 Autor
